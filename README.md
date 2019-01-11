@@ -1,5 +1,5 @@
 # DevuanDog
-DevuanDog, based on the Devuan 'Beowulf' branch, alpha version, under construction....  
+DevuanDog, based on the [Devuan](https://devuan.org/) 'Beowulf' branch, alpha version, under construction....  
 
 ### 32 and 64 bit ISO's    
   
