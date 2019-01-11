@@ -22,7 +22,8 @@ Custom repository: [32-bit](https://fred181.gitlab.io/devuandog/i386/Packages/) 
 
 **Specifications:**          
 Kernel: 4.19.0-1 (change is that the kernel is separate module now)         
-Choice of Boot Methods: porteus-boot and live-boot v3 (see for options [Here](https://github.com/DebianDog/DevuanDog/raw/master/Examples-boot-codes.txt))         
+Choice of Boot Methods: porteus-boot and live-boot v3 (see for options [Here](https://github.com/DebianDog/DevuanDog/raw/master/Examples-boot-codes.txt))  
+(EDIT: See post [Here](http://murga-linux.com/puppy/viewtopic.php?p=1015160#1015160) for how to boot with older kernel 3.16 if possibly your hardware is too old for booting v4.19)  
 Default WM - OpenBox with on top PcmanFM (providing the desktop) and lxpanel.     
 Option to switch to JWM window-manager                  
 Default File Manager - PcmanFM with option to use rox.        
