@@ -1,7 +1,7 @@
 # DevuanDog
 DevuanDog, based on the Devuan 'Beowulf' branch, alpha version, under construction....  
 
-# 32 and 64 bit ISO's    
+### 32 and 64 bit ISO's    
   
 Iso 32 bit: [DevuanDog-2019-01-10_32-bit.iso](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-2019-01-10_32-bit.iso) **Size: 292MB**          
 Md5sum: [DevuanDog-2019-01-10_32-bit.md5](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-2019-01-10_32-bit.md5)      
