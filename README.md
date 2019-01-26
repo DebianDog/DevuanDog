@@ -1,14 +1,16 @@
 # DevuanDog
 DevuanDog, based on the [Devuan](https://devuan.org/) 'Beowulf' branch, alpha version, under construction....   
-[Forum thread](http://murga-linux.com/puppy/viewtopic.php?t=115124)
+[Forum thread](http://murga-linux.com/puppy/viewtopic.php?t=115124)   
+
+**Updated 2019-01-26**
 
 ### 32 and 64 bit ISO's    
   
-Iso 32 bit: [DevuanDog-2019-01-10_32-bit.iso](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-2019-01-10_32-bit.iso) **Size: 292MB**          
-Md5sum: [DevuanDog-2019-01-10_32-bit.md5](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-2019-01-10_32-bit.md5)      
+Iso 32 bit: [DevuanDog-2019-01-26_32-bit.iso](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-2019-01-26_32-bit.iso) **Size: 283MB**          
+Md5sum: [DevuanDog-2019-01-26_32-bit.md5](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-2019-01-26_32-bit.md5)      
 
-Iso 64 bit: [DevuanDog-2019-01-10_64-bit.iso](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-2019-01-10_64-bit.iso) **Size: 314MB**              
-Md5sum: [DevuanDog-2019-01-10_64-bit.md5](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-2019-01-10_64-bit.md5)      
+Iso 64 bit: [DevuanDog-2019-01-26_64-bit.iso](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-2019-01-26_64-bit.iso) **Size: 300MB**              
+Md5sum: [DevuanDog-2019-01-26_64-bit.md5](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-2019-01-26_64-bit.md5)      
 
 DEVX and Firmware squashfs modules: [Here](https://github.com/DebianDog/DevuanDog/releases/tag/v1.1)         
 
@@ -27,7 +29,7 @@ Choice of Boot Methods: porteus-boot and live-boot v3 (see for options [Here](ht
 Default WM - OpenBox with on top PcmanFM (providing the desktop) and lxpanel.     
 Option to switch to JWM window-manager                  
 Default File Manager - PcmanFM with option to use rox.        
-Default Internet Browser - Firefox.  
+Default Internet Browser - Palemoon (replaced firefox-esr with palemoon).  
 
 ---      
  
