@@ -1,6 +1,8 @@
 # DevuanDog
 DevuanDog, based on the [Devuan](https://devuan.org/) 'Beowulf' branch, alpha version, under construction....   
-[Forum thread](http://murga-linux.com/puppy/viewtopic.php?t=115124)   
+[Forum thread](http://murga-linux.com/puppy/viewtopic.php?t=115124)  
+**Update**: See [Here](https://debiandog.github.io/MakeLive/Readme-build-devuandog-beowulf.html) for a Devuandog build system.  
+
 
 **Updated 2019-03-29**  
 See here for [Changes and Fixes](http://murga-linux.com/puppy/viewtopic.php?p=1015137#1015137)  
