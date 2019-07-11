@@ -13,20 +13,13 @@ See here for [Changes and Fixes](http://murga-linux.com/puppy/viewtopic.php?p=10
 (see specifications below)        
 
 **Openbox with lxde:**    
-Iso 32 bit: [DevuanDog-openbox_lxde-2019-07-11_32-bit.iso](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_lxde-2019-07-11_32-bit.iso) **Size: 309MB**          
-[Md5sum](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_lxde-2019-07-11_32-bit.md5)      
-
-Iso 64 bit: [DevuanDog-openbox_lxde-2019-07-11_64-bit.iso](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_lxde-2019-07-11_64-bit.iso) **Size: 339MB**              
-[Md5sum](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_lxde-2019-07-11_64-bit.md5)   
+Iso 32 bit: [DevuanDog-openbox_lxde-2019-07-11_32-bit.iso](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_lxde-2019-07-11_32-bit.iso) **Size: 309MB** [Md5sum](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_lxde-2019-07-11_32-bit.md5)           
+Iso 64 bit: [DevuanDog-openbox_lxde-2019-07-11_64-bit.iso](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_lxde-2019-07-11_64-bit.iso) **Size: 339MB** [Md5sum](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_lxde-2019-07-11_64-bit.md5)         
 
 **Openbox with xfce:**   
-Iso 32 bit: [DevuanDog-openbox_xfce-2019-07-11_32-bit.iso](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_xfce-2019-07-11_32-bit.iso) **Size: 302MB**          
-[Md5sum](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_xfce-2019-07-11_32-bit.md5)      
-
-Iso 64 bit: [DevuanDog-openbox_xfce-2019-07-11_64-bit.iso](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_xfce-2019-07-11_64-bit.iso) **Size: 331MB**              
-[Md5sum](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_xfce-2019-07-11_64-bit.md5)
+Iso 32 bit: [DevuanDog-openbox_xfce-2019-07-11_32-bit.iso](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_xfce-2019-07-11_32-bit.iso) **Size: 302MB** [Md5sum](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_xfce-2019-07-11_32-bit.md5)        
+Iso 64 bit: [DevuanDog-openbox_xfce-2019-07-11_64-bit.iso](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_xfce-2019-07-11_64-bit.iso) **Size: 331MB** [Md5sum](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_xfce-2019-07-11_64-bit.md5)     
       
-
 DEVX and Firmware squashfs modules: [Here](https://github.com/DebianDog/DevuanDog/releases/tag/v1.1)         
 
 Built from scratch by using debootstrap and remastered afterwards.     
