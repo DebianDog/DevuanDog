@@ -59,7 +59,9 @@ Default Internet Browser - Firefox-ESR.
  
 **Screenshots:**  
     
-Openbox with PcmanFM and lxpanel:  
-![SCREENSHOT](https://github.com/DebianDog/DevuanDog/raw/master/DevuanDog-Openbox.png)      
-JWM     
+Openbox with PcmanFM and lxpanel:     
+![SCREENSHOT](https://github.com/DebianDog/DevuanDog/raw/master/Devuandog-full-openbox-lxpanel.jpg)     
+Openbox with xfce:      
+![SCREENSHOT](https://github.com/DebianDog/DevuanDog/raw/master/Devuandog-openbox_xfce.png)   
+JWM        
 ![SCREENSHOT](https://github.com/DebianDog/DevuanDog/raw/master/Devuandog-JWM.jpg) 
