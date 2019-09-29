@@ -9,9 +9,9 @@ See here for [Changes and Fixes](http://murga-linux.com/puppy/viewtopic.php?p=10
 
 ### 32 and 64 bit ISO's:        
 (see specifications below)             
-Iso 32 bit: [DevuanDog-openbox_lxde-2019-07-11_32-bit.iso](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_jwm-2019-09-28_32-bit.iso) **Size: 303MB** 
+Iso 32 bit: [DevuanDog-openbox_jwm-2019-09-28_32-bit.iso](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_jwm-2019-09-28_32-bit.iso) **Size: 303MB** 
 [Md5sum](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_jwm-2019-09-28_32-bit.md5)           
-Iso 64 bit: [DevuanDog-openbox_lxde-2019-07-11_64-bit.iso](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_jwm-2019-09-28_64-bit.iso) **Size: 330MB** 
+Iso 64 bit: [DevuanDog-openbox_jwm-2019-09-28_64-bit.iso](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_jwm-2019-09-28_64-bit.iso) **Size: 330MB** 
 [Md5sum](https://github.com/DebianDog/DevuanDog/releases/download/v1.0/DevuanDog-openbox_jwm-2019-09-28_64-bit.md5)         
 
 DEVX and Firmware squashfs modules: [Here](https://github.com/DebianDog/DevuanDog/releases/tag/v1.1)         
