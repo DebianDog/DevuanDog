@@ -29,9 +29,9 @@ Kernel: 4.19.0-6 (the kernel is separate module)
 Choice of Boot Methods: porteus-boot and live-boot v3 (see for options [Here](https://github.com/DebianDog/DevuanDog/raw/master/Examples-boot-codes.txt))  
 (EDIT: See post [Here](http://murga-linux.com/puppy/viewtopic.php?p=1015160#1015160) for how to boot with older kernel 3.16 if possibly your hardware is too old for booting v4.19)  
 Default WM - OpenBox, with Desktop choices (run 'Desktop Manager' to choose):
-- Tint2 panels
-- PcmanFM (providing the Desktop) and lxpanel
-- Tint2 bottom panel and rox-pinboard proving the Desktop    
+- Tint2 panels  
+- PcmanFM (providing the Desktop) and lxpanel  
+- Tint2 bottom panel and rox-pinboard proving the Desktop       
 Option to switch to JWM window-manager                  
 Default File Manager - PcmanFM with option to use rox.        
 Default Internet Browser - Palemoon (replaced firefox-esr with palemoon).   
